@@ -1,4 +1,4 @@
-package org.thecircle.common.models;
+package org.thecircle.common.payload;
 
 import lombok.*;
 
@@ -13,7 +13,7 @@ import java.util.Date;
 @Getter @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Message {
+public class MessagePayload {
 
     private String content;
 

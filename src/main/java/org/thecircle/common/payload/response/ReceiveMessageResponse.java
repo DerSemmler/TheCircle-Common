@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.thecircle.common.models.Message;
+import org.thecircle.common.payload.MessagePayload;
 
 import java.util.ArrayList;
 
@@ -12,5 +12,5 @@ import java.util.ArrayList;
 @NoArgsConstructor
 @AllArgsConstructor
 public class ReceiveMessageResponse {
-    private ArrayList<Message> messages;
+    private ArrayList<MessagePayload> messages;
 }
