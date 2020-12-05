@@ -1,18 +1,17 @@
-package org.thecircle.fckcducommon.payload.response;
+package org.thecircle.common.payload.response;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@RequiredArgsConstructor
 public class SignupResponse {
 
 	private long userId;
-	
+
+	@NonNull
 	private String message;
 
 }

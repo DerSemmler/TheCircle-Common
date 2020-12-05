@@ -1,4 +1,4 @@
-package org.thecircle.fckcducommon.payload.response;
+package org.thecircle.common.payload.response;
 
 import lombok.*;
 
