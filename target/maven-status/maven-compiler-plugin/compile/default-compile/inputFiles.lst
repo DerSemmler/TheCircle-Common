@@ -1,0 +1,8 @@
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/request/SignupRequest.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/response/ReceiveMessageResponse.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/response/SignupResponse.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/response/SimpleResponse.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/MessagePayload.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/request/LoginRequest.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/request/SendMessageRequest.java
+/home/samuel/IdeaProjects/TheCircle-Common/src/main/java/org/thecircle/common/payload/response/JwtResponse.java

@@ -1,0 +1,4 @@
+org/thecircle/common/payload/response/SignupResponse.class
+org/thecircle/common/payload/request/SignupRequest.class
+org/thecircle/common/payload/response/ReceiveMessageResponse.class
+org/thecircle/common/payload/MessagePayload.class

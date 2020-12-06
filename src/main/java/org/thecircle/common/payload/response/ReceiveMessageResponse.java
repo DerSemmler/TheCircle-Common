@@ -8,9 +8,11 @@ import org.thecircle.common.payload.MessagePayload;
 
 import java.util.ArrayList;
 
+
 @Getter @Setter
 @NoArgsConstructor
 @AllArgsConstructor
 public class ReceiveMessageResponse {
     private ArrayList<MessagePayload> messages;
+
 }

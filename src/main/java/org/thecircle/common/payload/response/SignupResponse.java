@@ -14,4 +14,6 @@ public class SignupResponse {
 	@NonNull
 	private String message;
 
+
+
 }
