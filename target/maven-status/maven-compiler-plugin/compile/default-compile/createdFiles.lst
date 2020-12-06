@@ -1,4 +1,8 @@
 org/thecircle/common/payload/response/SignupResponse.class
+org/thecircle/common/payload/response/JwtResponse.class
 org/thecircle/common/payload/request/SignupRequest.class
+org/thecircle/common/payload/request/LoginRequest.class
+org/thecircle/common/payload/request/SendMessageRequest.class
+org/thecircle/common/payload/response/SimpleResponse.class
 org/thecircle/common/payload/response/ReceiveMessageResponse.class
 org/thecircle/common/payload/MessagePayload.class
